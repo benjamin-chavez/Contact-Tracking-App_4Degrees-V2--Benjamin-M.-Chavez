@@ -1,0 +1,5 @@
+/* Formatted to keep the page static when the no contact alert
+is removed */
+.warning-div {
+  min-height: 85px;
+}
